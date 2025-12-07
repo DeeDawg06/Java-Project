@@ -21,5 +21,6 @@ This is a simple Java console application to manage a grocery list using **array
 
 ## How to Run
 1. Clone the repository:
-   ```bash git clone https://github.com/DeeDawg06/Java-Project
+   ```bash
+   git clone https://github.com/DeeDawg06/Java-Project
 
